@@ -52,7 +52,7 @@
 * Flet
 
 ## 📝 Licencia
-Este proyecto está bajo la licencia MIT.
+Proyecto realizado dentro del programa Samsung Innovation Campus 2025
 
 ## 👤 Autores
 * **Gabriel Armuelles**
