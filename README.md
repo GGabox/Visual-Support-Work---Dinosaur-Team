@@ -31,17 +31,19 @@ NOTA IMPORTANTE: Para utilizar el proyecto debe utilizarse python 3.12.X
 
 2. Abre el proyecto en tu IDE preferido
 
-3. Entra a la carpeta Edge_AI:
+3. Abrir un terminal tipo CMD
+
+4. Entra a la carpeta Edge_AI:
    - cd Edge_AI
 
-2. Crea y activa elentorno virtual:
+5. Crea y activa elentorno virtual:
    - python -m venv .venv
-   - .\.venv\Scripts\Activate.ps1
+   - .\.venv\Scripts\Activate
 
-4. Instala las dependencias:
+6. Instala las dependencias:
    - pip install -r requirements.txt
 
-5. Corre el archivo main.py
+7. Corre el archivo main.py
    - python main.py
 
 ## 🛠️ Tecnologías utilizadas
