@@ -27,22 +27,22 @@
 NOTA IMPORTANTE: Para utilizar el proyecto debe utilizarse python 3.12.X
 
 1. Clona el repositorio:
-   git clone https://github.com/GGabox/Visual-Support-Work---Dinosaur-Team.git
+        git clone https://github.com/GGabox/Visual-Support-Work---Dinosaur-Team.git
 
 2.Abre el proyecto en tu IDE preferido
 
 3. Entra a la carpeta Edge_AI:
-   cd Edge_AI
+       cd Edge_AI
 
 2. Crea y activa elentorno virtual:
-   python -m venv .venv
-   .\.venv\Scripts\Activate.ps1
+       python -m venv .venv
+       .\.venv\Scripts\Activate.ps1
 
-3. Instala las dependencias:
-   pip install -r requirements.txt
+4. Instala las dependencias:
+       pip install -r requirements.txt
 
-4. Corre el archivo main.py
-   python main.py
+5. Corre el archivo main.py
+       python main.py
 
 ## 🛠️ Tecnologías utilizadas
 * Python
